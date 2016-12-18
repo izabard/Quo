@@ -50,6 +50,7 @@
 
             <ImageButton
                 style="@style/imageButtoms"
+                android:id="@+id/img_health"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
@@ -65,6 +66,7 @@
 
             <ImageButton
                 style="@style/imageButtoms"
+                android:id="@+id/img_vivienda"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
@@ -80,6 +82,7 @@
 
             <ImageButton
                 style="@style/imageButtoms"
+                android:id="@+id/img_sports"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
@@ -96,6 +99,7 @@
 
             <ImageButton
                 style="@style/imageButtoms"
+                android:id="@+id/img_defending"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"

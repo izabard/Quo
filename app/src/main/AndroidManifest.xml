@@ -22,7 +22,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".EducationActivity"></activity>
+        <activity android:name=".EducationActivity" />
+        <activity android:name=".HealthActivity" />
+        <activity android:name=".ViviendaActivity" />
+        <activity android:name=".SportsActivity" />
+        <activity android:name=".DefendingActivity"></activity>
     </application>
 
 </manifest>
