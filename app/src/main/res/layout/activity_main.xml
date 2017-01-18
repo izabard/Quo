@@ -57,39 +57,39 @@
                 android:src="@drawable/health"
 
                 ></ImageButton>
+            <!--
+                        <TextView
+                            style="@style/textStyle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Vivienda y Servicio de Consumo"/>
 
-            <TextView
-                style="@style/textStyle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Vivienda y Servicio de Consumo"/>
+                        <ImageButton
+                            style="@style/imageButtoms"
+                            android:id="@+id/img_vivienda"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:src="@drawable/home"
 
-            <ImageButton
-                style="@style/imageButtoms"
-                android:id="@+id/img_vivienda"
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:src="@drawable/home"
+                            ></ImageButton>
 
-                ></ImageButton>
+                        <TextView
+                            style="@style/textStyle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Servicio Recreativo, Cultural y Religioso"/>
 
-            <TextView
-                style="@style/textStyle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Servicio Recreativo, Cultural y Religioso"/>
+                        <ImageButton
+                            style="@style/imageButtoms"
+                            android:id="@+id/img_sports"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:src="@drawable/sports"
 
-            <ImageButton
-                style="@style/imageButtoms"
-                android:id="@+id/img_sports"
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:src="@drawable/sports"
-
-                ></ImageButton>
-
+                            ></ImageButton>
+            -->
             <TextView
                 style="@style/textStyle"
                 android:layout_width="wrap_content"

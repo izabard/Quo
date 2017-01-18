@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
        //Listener de los clicks ImageButtoms
        addListenerOnButtomEducation();
        addListenerOnButtomHealth();
-       addListenerOnButtomVivienda();
-       addListenerOnButtomSports();
+      // addListenerOnButtomVivienda();
+      // addListenerOnButtomSports();
        addListenerOnButtomDefending();
     }
 
@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void addListenerOnButtomVivienda(){
+   /* public void addListenerOnButtomVivienda(){
         ImageButton imageButton = (ImageButton) findViewById(R.id.img_vivienda);
         {
             imageButton.setOnClickListener(new View.OnClickListener(){
@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-    }
+    }*/
 
 
     public void addListenerOnButtomDefending(){
